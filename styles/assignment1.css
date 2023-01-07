@@ -13,12 +13,13 @@
     background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1600;
+    width: 1600px;
     height: 810px;
 }
 
 .banner-title {
     color: #FFFFFF;
+    font-weight: 700;
     font-size: 65px;
     padding: 215px 230px 24px 845px;
 }
@@ -49,6 +50,7 @@
 }
 
 .my-failure-title {
+    font-weight: 700;
     font-size: 40px;
     padding-bottom: 24px;
     color: #151414;
@@ -86,6 +88,7 @@
 }
 
 .my-plan-heading {
+    font-weight: 700;
     font-size: 40px;
     text-align: center;
     padding-bottom: 50px;
@@ -101,6 +104,7 @@
 }
 
 .my-plan-list-title {
+    font-weight: 700;
     font-size: 30px;
     color: #151414;
     margin-top: 24px;
@@ -121,7 +125,7 @@
     border-radius: 8px;
     /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
     /* opacity: 10; */
-    
+
 }
 
 .always-positive p {
@@ -156,6 +160,7 @@
 }
 
 .footer-details-title {
+    font-weight: 700;
     padding-bottom: 16px;
     font-size: 45px;
     color: #F8F8F8;
